@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Gaur</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<img align='right' alt='coding' width='400' src='https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm'>
+<img align='right' alt='coding' width='400' src='https://dribbble.com/shots/14437038-Breathe-please-breathe'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyagaur123&label=Profile%20views&color=0e75b6&style=flat" alt="priyagaur123" /> </p>
 
